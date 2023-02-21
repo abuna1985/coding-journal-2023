@@ -1,6 +1,6 @@
 # coding-journal-2023
 
-This is my coding journal for the year 2023.
+This is my coding journal for the year 2023. If you need to search for something specific, use `crtl + f` and enter the term in the search bar.
 
 ## Table of Contents
 
@@ -10,7 +10,6 @@ This is my coding journal for the year 2023.
   - [02/17/2023 - Sortable User Table Additional Requirements](#02-17-2023-sortable-user-table-additional-requirements)
   - [02/17/2023 - Vue Memory Game Additional Requirements](#02-17-2023-vue-memory-game-additional-requirements)
   - [02/17/2023 - React.js Real-Time Chat Application Requirements](#02-17-2023-reactjs-real-time-chat-application-requirements)
-
 
 ## 02-04-2023
 
@@ -30,6 +29,7 @@ Finally, I wanted a clear guide to properly import Google fonts in my sass files
 
 - [https://www.developerdrive.com/how-to-easily-use-google-fonts-with-sass/](https://www.developerdrive.com/how-to-easily-use-google-fonts-with-sass/)
 
+[back to top](#coding-journal-2023)
 
 ## 02-17-2023
 
@@ -48,7 +48,8 @@ Finally, I wanted a clear guide to properly import Google fonts in my sass files
     - Test cases should cover different scenarios, such as successful and failed API calls, empty or invalid responses, and data with different properties.
     - Use test-driven development (TDD) approach to write code that passes the tests and refactor as necessary.
   
-  
+[back to top](#coding-journal-2023)
+
 ### ***02-17-2023 Vue Memory Game Additional Requirements***
 
 - Appealing Animations: The user should be able to enjoy watching the background animations, which should be appealing to the eye and appropriate for the game's theme.
@@ -60,9 +61,10 @@ Finally, I wanted a clear guide to properly import Google fonts in my sass files
 - Button to disable animations
   - Would just show a static animal in the background for the forest theme (fade-in)
   - Would show tumbleweed in the background for the cowboy theme (fade-in)
+
+[back to top](#coding-journal-2023)
   
 ### ***02-17-2023 React.js Real-Time Chat Application Requirements***
-
 
 1. User Login and Registration: Users should be able to create an account and log in to the app with their email or social media account.
 2. User Profiles: Users should be able to view their profile and update their profile picture, name, and other details.
@@ -75,3 +77,4 @@ Finally, I wanted a clear guide to properly import Google fonts in my sass files
 9. User Status: Users should be able to update their status, indicating whether they are online, offline, or away.
 10. User Search: Users should be able to search for other users by name or email address to find and connect with them.
 
+[back to top](#coding-journal-2023)
