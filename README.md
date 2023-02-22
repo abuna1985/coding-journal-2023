@@ -194,7 +194,7 @@ Now I can pull up the interview transcript using the `person_id`
 ```sql
 SELECT *
 FROM interview
-WHERE person_id = 14887
+WHERE person_id = 14887;
 ```
 
 The following returns from the query:
